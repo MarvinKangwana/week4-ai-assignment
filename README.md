@@ -13,3 +13,7 @@ Structured data follows a set of rules and as a fixed schema while unorganised d
 ## Question 3
 Is a framework that lets people organise information
 
+## Bonus question
+1. A list stores items in a specific order and they can be accessed using index
+2. A dictionary stores data as key–value pairs instead of positions
+
