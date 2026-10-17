@@ -1,0 +1,20 @@
+nav {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    height: 50px;
+    padding-top: 5%;
+}
+
+header {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    height: 50px;
+
+}
+
+.holder {
+    color: white;
+    background-color: #0B132B;
+}
